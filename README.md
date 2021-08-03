@@ -7,8 +7,8 @@ Validação de funcionalides básicas: criação, listagem, consulta por nome e 
 </h3>
 
 <h2>Pré-requisitos usados para o desenvolvimento e execução do projeto</h2>
-*Java 11.
-*Maven 3.6.3
-*Visual Studio Code
-*Git versão 2.28.0
-*Conta no GitHub
+*Java 11.<br>
+*Maven 3.6.3<br>
+*Visual Studio Code<br>
+*Git versão 2.28.0<br>
+*Conta no GitHub<br>
